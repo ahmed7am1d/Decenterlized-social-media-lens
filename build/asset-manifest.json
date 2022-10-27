@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Decenterlized-Social-media-Lens/static/css/main.693a6f7d.css",
+    "main.js": "/Decenterlized-Social-media-Lens/static/js/main.14a79183.js",
+    "static/media/gradient-background.png": "/Decenterlized-Social-media-Lens/static/media/gradient-background.1f00c97e60e5c7cd21c6.png",
+    "index.html": "/Decenterlized-Social-media-Lens/index.html",
+    "main.693a6f7d.css.map": "/Decenterlized-Social-media-Lens/static/css/main.693a6f7d.css.map",
+    "main.14a79183.js.map": "/Decenterlized-Social-media-Lens/static/js/main.14a79183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.693a6f7d.css",
+    "static/js/main.14a79183.js"
+  ]
+}
