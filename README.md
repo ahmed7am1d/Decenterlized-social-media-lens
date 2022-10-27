@@ -2,7 +2,7 @@
 A simple project to demonstrate the usage of the lens protcol that is built on the polygon blockchain
 
 ### Techs used:
-`Front-end:` <em>ReactJS, ChakraUI</em>
+`Front-end:` <em>ReactJS, ChakraUI</em><br>
 `Other Techs/Libraries:` <em>ethers, GraphQL, urql.</em>
 
 ### Lens Protocol ?
